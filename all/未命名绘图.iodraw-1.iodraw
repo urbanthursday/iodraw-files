@@ -20,7 +20,7 @@
           <mxGeometry x="113" y="115" width="30" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-6" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;体外/体内功能验证&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="450" y="460" width="150" height="230" as="geometry" />
+          <mxGeometry x="470.75" y="530" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-7" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;动态机制与组学分析&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="36" height="220" as="geometry" />
