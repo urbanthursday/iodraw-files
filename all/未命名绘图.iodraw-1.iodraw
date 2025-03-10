@@ -139,9 +139,6 @@
         <mxCell id="SuKM7FytDkmOPximx25t-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 9.625px; text-align: left;&quot;&gt;PPARγ调控MME&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-410" y="395" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="SuKM7FytDkmOPximx25t-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-43" target="SuKM7FytDkmOPximx25t-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
