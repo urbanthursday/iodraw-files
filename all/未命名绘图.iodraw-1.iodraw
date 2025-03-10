@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="RhYf3eI7vkznNL4vIGT5">
-    <mxGraphModel dx="1203" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="1087" dy="328" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -128,6 +128,9 @@
         <mxCell id="SuKM7FytDkmOPximx25t-41" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left;&quot;&gt;拟时序分析&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-210" y="215" width="70" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SuKM7FytDkmOPximx25t-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-42" target="SuKM7FytDkmOPximx25t-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-42" value="&lt;span style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left;&quot;&gt;实验验证&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-170" y="420.13" width="60" height="19.75" as="geometry" />
         </mxCell>
@@ -183,7 +186,7 @@
           <mxGeometry x="-310" y="569.75" width="60" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-72" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;ChIP-qPCR&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;（HIF1α结合LGMN启动子，n=3）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-130" y="510.25" width="180" height="29.75" as="geometry" />
+          <mxGeometry x="-390" y="410.75" width="180" height="29.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
