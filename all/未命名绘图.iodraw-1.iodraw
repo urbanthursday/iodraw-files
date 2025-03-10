@@ -13,7 +13,7 @@
         <mxCell id="SuKM7FytDkmOPximx25t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="300" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="SuKM7FytDkmOPximx25t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="SuKM7FytDkmOPximx25t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="109" y="560" width="610" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-5" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;数据整合与样本信息&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
