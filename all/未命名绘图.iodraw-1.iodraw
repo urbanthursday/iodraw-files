@@ -140,31 +140,31 @@
           <mxGeometry x="-410" y="395" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-59" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;差异基因（FDR&amp;lt;0.05）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-460" y="440.5" width="130" height="19.75" as="geometry" />
+          <mxGeometry x="-460" y="460" width="130" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-60" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;纤维化病灶区LMRatio↑&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-455" y="495.5" width="120" height="19.75" as="geometry" />
+          <mxGeometry x="-455" y="515" width="120" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-61" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;LGMN/MME蛋白互作网络&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="550.25" width="140" height="19.75" as="geometry" />
+          <mxGeometry x="-470" y="569.75" width="140" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-62" target="SuKM7FytDkmOPximx25t-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-62" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;单细胞转录组&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;（10x Genomics）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="440.5" width="110" height="19.75" as="geometry" />
+          <mxGeometry x="-310" y="460" width="110" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-63" target="SuKM7FytDkmOPximx25t-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-63" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;空间转录组（Visium）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="495.5" width="60" height="19.75" as="geometry" />
+          <mxGeometry x="-310" y="515" width="60" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-64" target="SuKM7FytDkmOPximx25t-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-64" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;蛋白质组（质谱）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="550.25" width="60" height="19.75" as="geometry" />
+          <mxGeometry x="-310" y="569.75" width="60" height="19.75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
