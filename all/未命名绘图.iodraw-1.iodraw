@@ -11,7 +11,7 @@
           <mxGeometry x="420" y="320" width="299" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="110" y="570" width="300" height="230" as="geometry" />
+          <mxGeometry x="110" y="320" width="300" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="110" y="820" width="610" height="230" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="679" y="320" width="40" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-7" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;动态机制与组学分析&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="110" y="575" width="36" height="220" as="geometry" />
+          <mxGeometry x="110" y="320" width="36" height="220" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-8" value="&lt;strong style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;靶向治疗策略开发&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="113" y="825" width="30" height="220" as="geometry" />
