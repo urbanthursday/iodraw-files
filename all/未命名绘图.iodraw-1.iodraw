@@ -7,13 +7,13 @@
         <mxCell id="SuKM7FytDkmOPximx25t-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000066;strokeColor=#6c8ebf;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="113" y="80" width="610" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="SuKM7FytDkmOPximx25t-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="SuKM7FytDkmOPximx25t-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#003300;strokeColor=#82b366;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="320" width="299" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#331A00;strokeColor=#d79b00;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="110" y="320" width="300" height="230" as="geometry" />
         </mxCell>
-        <mxCell id="SuKM7FytDkmOPximx25t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
+        <mxCell id="SuKM7FytDkmOPximx25t-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#190033;strokeColor=#9673a6;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="109" y="560" width="610" height="230" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-5" value="&lt;strong style=&quot;font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; font-size: 16.002px; text-align: left;&quot;&gt;数据整合与样本信息&lt;/strong&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-lr;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
