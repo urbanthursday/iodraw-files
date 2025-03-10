@@ -125,9 +125,7 @@
         <mxCell id="SuKM7FytDkmOPximx25t-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-37" target="SuKM7FytDkmOPximx25t-62">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-30" y="520" />
-              <mxPoint x="-20" y="520" />
-              <mxPoint x="-20" y="480" />
+              <mxPoint x="-30" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -198,7 +196,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-62" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;单细胞转录组&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font face=&quot;Inter, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Noto Sans, Ubuntu, Cantarell, Helvetica Neue, Oxygen, Open Sans, sans-serif&quot;&gt;（10x Genomics）&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-150" y="470.5" width="110" height="19.75" as="geometry" />
+          <mxGeometry x="-150" y="470.5" width="100" height="19.75" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="SuKM7FytDkmOPximx25t-63" target="SuKM7FytDkmOPximx25t-60">
           <mxGeometry relative="1" as="geometry" />
