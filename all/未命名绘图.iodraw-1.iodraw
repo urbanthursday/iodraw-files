@@ -107,10 +107,10 @@
           <mxGeometry x="-170" y="290" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-42" value="&lt;span style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;RNA速率&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="415" width="170" height="30" as="geometry" />
+          <mxGeometry x="-250" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-43" value="&lt;span style=&quot;color: rgb(248, 250, 255); font-family: Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Noto Sans&amp;quot;, Ubuntu, Cantarell, &amp;quot;Helvetica Neue&amp;quot;, Oxygen, &amp;quot;Open Sans&amp;quot;, sans-serif; text-align: left; background-color: rgb(41, 42, 45);&quot;&gt;RNA速率&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;" vertex="1" parent="1">
-          <mxGeometry x="-250" y="360" width="170" height="30" as="geometry" />
+          <mxGeometry x="-250" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
