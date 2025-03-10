@@ -119,13 +119,13 @@
           <mxGeometry x="-250" y="340" width="250" height="50" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-47" value="&lt;div&gt;&lt;span style=&quot;font-size: 9.625px; text-align: left;&quot;&gt;关键转录因子&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-310" y="490" width="80" height="20" as="geometry" />
+          <mxGeometry x="-220" y="610" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-48" value="&lt;div&gt;&lt;span style=&quot;font-size: 9.625px; text-align: left;&quot;&gt;HIF1α调控LGMN&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="-330" y="590" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="SuKM7FytDkmOPximx25t-49" value="&lt;div&gt;&lt;span style=&quot;font-size: 9.625px; text-align: left;&quot;&gt;PPARγ调控MME&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontColor=#FFFFFF;labelBackgroundColor=none;labelBorderColor=none;textShadow=1;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="640" width="250" height="10" as="geometry" />
+          <mxGeometry x="-325" y="620" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
