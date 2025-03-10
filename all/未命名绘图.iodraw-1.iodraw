@@ -67,8 +67,11 @@
         <mxCell id="SuKM7FytDkmOPximx25t-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="551.5" y="350" as="sourcePoint" />
-            <mxPoint x="679.79" y="351" as="targetPoint" />
+            <mxPoint x="800" y="350" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="SuKM7FytDkmOPximx25t-26" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
